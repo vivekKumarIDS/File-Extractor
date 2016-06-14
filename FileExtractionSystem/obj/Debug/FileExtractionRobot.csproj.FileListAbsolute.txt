@@ -1,0 +1,9 @@
+E:\vivek work 2016\file_extractionSystem\FileExtractionSystem\FileExtractionSystem\bin\Debug\FileExtractionSystem.exe.config
+E:\vivek work 2016\file_extractionSystem\FileExtractionSystem\FileExtractionSystem\bin\Debug\FileExtractionSystem.exe
+E:\vivek work 2016\file_extractionSystem\FileExtractionSystem\FileExtractionSystem\bin\Debug\FileExtractionSystem.pdb
+E:\vivek work 2016\file_extractionSystem\FileExtractionSystem\FileExtractionSystem\obj\Debug\FileExtractionRobot.csprojResolveAssemblyReference.cache
+E:\vivek work 2016\file_extractionSystem\FileExtractionSystem\FileExtractionSystem\obj\Debug\FileExtractionSystem.Extraction_Robot.resources
+E:\vivek work 2016\file_extractionSystem\FileExtractionSystem\FileExtractionSystem\obj\Debug\FileExtractionSystem.Properties.Resources.resources
+E:\vivek work 2016\file_extractionSystem\FileExtractionSystem\FileExtractionSystem\obj\Debug\FileExtractionRobot.csproj.GenerateResource.Cache
+E:\vivek work 2016\file_extractionSystem\FileExtractionSystem\FileExtractionSystem\obj\Debug\FileExtractionSystem.exe
+E:\vivek work 2016\file_extractionSystem\FileExtractionSystem\FileExtractionSystem\obj\Debug\FileExtractionSystem.pdb
